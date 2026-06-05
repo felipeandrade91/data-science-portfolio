@@ -1,6 +1,3 @@
-# data-science-portfolio
-Data Analytics portfolio: statistics, machine learning, classification models, and visualization using real-world datasets.
-
 # Data Science Portfolio
 
 This repository showcases selected projects involving statistical analysis, machine learning, exploratory data analysis, and data visualization using real-world datasets.

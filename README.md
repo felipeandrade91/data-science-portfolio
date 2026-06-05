@@ -1,51 +1,110 @@
 # Data Science Portfolio
 
-This repository showcases selected projects involving statistical analysis, machine learning, exploratory data analysis, and data visualization using real-world datasets.
+Welcome to my Data Science portfolio.
 
-## Skills
+I am a PhD researcher and Data Analyst with over 15 years of experience applying statistics, machine learning, and quantitative methods to solve real-world problems using complex biological datasets.
 
-- Data Cleaning
+This repository showcases selected projects involving statistical analysis, machine learning, exploratory data analysis (EDA), hypothesis testing, and data visualization. All projects are based on real datasets and reproducible analytical workflows developed during peer-reviewed scientific research.
+
+---
+
+## Technical Skills
+
+- Data Cleaning and Preparation
 - Exploratory Data Analysis (EDA)
 - Statistical Inference
 - Hypothesis Testing
-- Multivariate Statistics
+- Parametric and Non-Parametric Statistics
+- Permutation Statistics
+- Multivariate Data Analysis
 - Machine Learning
-- Random Forest
+- Random Forest Modeling
 - Feature Importance Analysis
+- Classification Models
 - Data Visualization
-- Reproducible Research
+- Reproducible Research Workflows
+
+---
+
+## Tools & Technologies
+
+- R
+- Python
+- SQL
+- Git
+- GitHub
+- Excel
+
+---
 
 ## Featured Projects
 
+| Project | Main Techniques | Language |
+|----------|----------------|-----------|
+| [Pseudopaludicola coracoralinae](https://github.com/felipeandrade91/Pseudopaludicola-coracoralinae) | Random Forest, EDA, Hypothesis Testing, Feature Importance | R |
+| [Pseudopaludicola matuta](https://github.com/felipeandrade91/Pseudopaludicola-matuta) | Random Forest, Permutation Tests, Multivariate Analysis | R |
+| [Pseudopaludicola florencei](https://github.com/felipeandrade91/Pseudopaludicola-florencei) | Multi-Class Classification, Random Forest, Feature Importance | R |
+| [A New Charismatic Monkey Frog](https://github.com/felipeandrade91/A-new-charismatic-monkey-frog) | Machine Learning, Morphometric Analysis, Statistical Modeling | R |
+
+---
+
+## Project Highlights
+
 ### Random Forest Classification of Bioacoustic Data
 
-- R
-- Machine Learning
-- Binary Classification
-- Feature Importance
+**Repository:**  
+🔗 https://github.com/felipeandrade91/Pseudopaludicola-coracoralinae
 
-Repository:
-https://github.com/felipeandrade91/Pseudopaludicola-coracoralinae
+**Highlights:**
+
+- Binary classification problem.
+- Morphometric and bioacoustic datasets.
+- Random Forest modeling.
+- Variable importance analysis.
+- Statistical hypothesis testing.
 
 ---
 
 ### Multi-Class Classification of Frog Species
 
-- R
-- Random Forest
-- Multivariate Analysis
-- Data Visualization
+**Repository:**  
+🔗 https://github.com/felipeandrade91/Pseudopaludicola-florencei
 
-Repository:
-https://github.com/felipeandrade91/Pseudopaludicola-florencei
+**Highlights:**
+
+- Multi-class classification problem.
+- Morphometric and bioacoustic datasets.
+- Random Forest classification.
+- Multivariate statistical analysis.
+- Data visualization and interpretation.
 
 ---
 
 ### Species Classification Using Morphometric Data
 
-- R
-- Statistical Modeling
-- Machine Learning
+**Repository:**  
+🔗 https://github.com/felipeandrade91/A-new-charismatic-monkey-frog
 
-Repository:
-https://github.com/felipeandrade91/A-new-charismatic-monkey-frog
+**Highlights:**
+
+- Multi-class classification.
+- Morphometric datasets.
+- Statistical modeling.
+- Machine learning techniques.
+- Reproducible analytical workflow.
+
+---
+
+## Selected Achievements
+
+- Author of 28 peer-reviewed scientific publications.
+- Description of 13 new amphibian species.
+- Extensive experience working with real-world datasets.
+- Application of machine learning and statistical modeling in biodiversity research.
+
+---
+
+## Contact
+
+- LinkedIn: linkedin.com/in/felipeandrade91
+- GitHub: github.com/felipeandrade91

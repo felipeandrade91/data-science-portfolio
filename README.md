@@ -41,6 +41,7 @@ This repository showcases selected projects involving statistical analysis, mach
 
 | Project | Main Techniques | Language |
 |----------|----------------|-----------|
+| [Meu Placar - Sports Analytics Dashboard](https://github.com/felipeandrade91/sports-analytics-dashboard) | KPI Design, Dashboarding, Data Visualization, Time Series Analysis | Low-code / PWA |
 | [Pseudopaludicola coracoralinae](https://github.com/felipeandrade91/Pseudopaludicola-coracoralinae) | Random Forest, EDA, Hypothesis Testing, Feature Importance | R |
 | [Pseudopaludicola matuta](https://github.com/felipeandrade91/Pseudopaludicola-matuta) | Random Forest, Permutation Tests, Multivariate Analysis | R |
 | [Pseudopaludicola florencei](https://github.com/felipeandrade91/Pseudopaludicola-florencei) | Multi-Class Classification, Random Forest, Feature Importance | R |
@@ -49,6 +50,29 @@ This repository showcases selected projects involving statistical analysis, mach
 ---
 
 ## Project Highlights
+
+### Meu Placar - Sports Analytics Dashboard
+
+**Repository:**  
+🔗 https://github.com/felipeandrade91/meuplacar
+
+**Live Demo:**  
+⚽ https://meuplacar.lovable.app/
+
+**Highlights:**
+
+- Personal football performance tracking application.
+- Interactive dashboard with real-time KPIs.
+- Match registration and historical data management.
+- Time-series analysis of goals, assists, and goal contributions.
+- Win/loss performance metrics and streak analysis.
+- Personal records and monthly performance comparisons.
+- Data visualization and dashboard design.
+- CSV data export functionality.
+- Progressive Web App (PWA) for mobile use.
+- Developed using low-code tools with a focus on data analytics and user experience.
+
+---
 
 ### Random Forest Classification of Bioacoustic Data
 

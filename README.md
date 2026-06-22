@@ -31,6 +31,7 @@ This repository showcases selected projects involving statistical analysis, mach
 - R
 - Python
 - SQL
+- Power BI
 - Git
 - GitHub
 - Excel
@@ -41,6 +42,7 @@ This repository showcases selected projects involving statistical analysis, mach
 
 | Project | Main Techniques | Language |
 |----------|----------------|-----------|
+| [Brazilian Anuran Divesrity Dashboard](https://github.com/felipeandrade91/Brazilian-Anuran-Diversity-Dashboard) | KPI Design, Dashboarding, Data Visualization | DAX / Power Query / M |
 | [Meu Placar - Sports Analytics Dashboard](https://github.com/felipeandrade91/sports-analytics-dashboard) | KPI Design, Dashboarding, Data Visualization, Time Series Analysis | Low-code / PWA |
 | [Pseudopaludicola coracoralinae](https://github.com/felipeandrade91/Pseudopaludicola-coracoralinae) | Random Forest, EDA, Hypothesis Testing, Feature Importance | R |
 | [Pseudopaludicola matuta](https://github.com/felipeandrade91/Pseudopaludicola-matuta) | Random Forest, Permutation Tests, Multivariate Analysis | R |
@@ -50,6 +52,28 @@ This repository showcases selected projects involving statistical analysis, mach
 ---
 
 ## Project Highlights
+
+### Brazilian Anuran Biodiversity Dashboard
+
+**Repository:**  
+🔗 https://github.com/felipeandrade91/Brazilian-Anuran-Diversity-Dashboard
+
+**Live Demo:**  
+https://app.powerbi.com/view?r=eyJrIjoiNGZhZTY3MzItNDIzNy00NmNlLWJjNjgtOWZiYWUwMGJhZWYzIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
+
+**Highlights:**
+
+- Taxonomic diversity overview
+- Species richness by state
+- Temporal trends in biodiversity records
+- Seasonal patterns across families
+- Species range breadth metrics
+- Global Biodiversity Information Facility (GBIF)
+- Taxonomic scope: Order Anura
+- Geographic scope: Brazil
+- Extraction date: June 16, 2026
+
+---
 
 ### Meu Placar - Sports Analytics Dashboard
 

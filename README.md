@@ -42,7 +42,7 @@ This repository showcases selected projects involving statistical analysis, mach
 
 | Project | Main Techniques | Language |
 |----------|----------------|-----------|
-| [GBIF Amphibian Data Pipeline](https://github.com/felipeandrade91/gbif-amphibians-etl-pipeline) | SQL-based ETL, Data Cleaning, Data Standardization, Regex Pattern Matching, Data Profiling, Feature Engineering, Data Quality Assessment | SQL (PostgreSQL) |
+| [GBIF Amphibian Data Pipeline](https://github.com/felipeandrade91/gbif-amphibians-etl-pipeline) | SQL ETL Pipeline, Data Wrangling at Scale, Schema Normalization, Regex-based Standardization, Temporal Feature Engineering, Column-wise Data Profiling, Missing Data Analysis, Dimensional Reduction Strategy | SQL (PostgreSQL) |
 | [Brazilian Anuran Divesrity Dashboard](https://github.com/felipeandrade91/Brazilian-Anuran-Diversity-Dashboard) | KPI Design, Dashboarding, Data Visualization | DAX / Power Query / M |
 | [Meu Placar - Sports Analytics Dashboard](https://github.com/felipeandrade91/sports-analytics-dashboard) | KPI Design, Dashboarding, Data Visualization, Time Series Analysis | Low-code / PWA |
 | [Pseudopaludicola coracoralinae](https://github.com/felipeandrade91/Pseudopaludicola-coracoralinae) | Random Forest, EDA, Hypothesis Testing, Feature Importance | R |

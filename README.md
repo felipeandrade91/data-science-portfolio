@@ -43,6 +43,7 @@ This repository showcases selected projects involving statistical analysis, mach
 | Project | Main Techniques | Language |
 |----------|----------------|-----------|
 | [GBIF Amphibian Data Pipeline](https://github.com/felipeandrade91/gbif-amphibians-etl-pipeline) | SQL ETL Pipeline, Data Wrangling at Scale, Schema Normalization, Regex-based Standardization, Temporal Feature Engineering, Column-wise Data Profiling, Missing Data Analysis, Dimensional Reduction Strategy | SQL (PostgreSQL) |
+| [GBIF Amphibian Data Analysis (Python EDA)](https://github.com/felipeandrade91/GBIF-Brazilian-Amphibian-Biodiversity-Analysis) | Exploratory Data Analysis (EDA), Spatial Data Analysis, Temporal Trend Analysis, Poisson GLM Regression, Species Accumulation Curves, Rarefaction Analysis, Sampling Bias Detection, Taxonomic Distribution Analysis, Interactive Geospatial Visualization (Plotly) | Python |
 | [Brazilian Anuran Divesrity Dashboard](https://github.com/felipeandrade91/Brazilian-Anuran-Diversity-Dashboard) | KPI Design, Dashboarding, Data Visualization | DAX / Power Query / M |
 | [Meu Placar - Sports Analytics Dashboard](https://github.com/felipeandrade91/sports-analytics-dashboard) | KPI Design, Dashboarding, Data Visualization, Time Series Analysis | Low-code / PWA |
 | [Pseudopaludicola coracoralinae](https://github.com/felipeandrade91/Pseudopaludicola-coracoralinae) | Random Forest, EDA, Hypothesis Testing, Feature Importance | R |
@@ -53,6 +54,30 @@ This repository showcases selected projects involving statistical analysis, mach
 ---
 
 ## Project Highlights
+
+### GBIF Amphibian Data Pipeline
+
+**Repository:**  
+🔗 https://github.com/felipeandrade91/gbif-amphibians-etl-pipeline
+
+**Highlights:**
+- Data Cleaning
+- Date Processing
+- Feature Engineering
+- Data Quality Assessment
+
+### GBIF Amphibian Data Analysis (Python EDA)
+
+**Repository:**  
+🔗 https://github.com/felipeandrade91/GBIF-Brazilian-Amphibian-Biodiversity-Analysis
+
+**Highlights:**
+- Strong spatial sampling bias, with concentration in southeastern and northern Brazil
+- Highly uneven institutional contribution, with a few institutions dominating records
+- Strong temporal exponential growth in occurrence data, confirmed by GLM
+- Significant taxonomic imbalance, with a small subset of species dominating observations
+- Evidence of incomplete sampling saturation across Brazilian amphibian diversity
+- Clear interaction between historical sampling effort and data availability
 
 ### Brazilian Anuran Biodiversity Dashboard
 
